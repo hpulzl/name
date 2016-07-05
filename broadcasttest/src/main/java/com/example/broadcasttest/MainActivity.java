@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         switch (v.getId()){
             case R.id.send_btn:
                 mIntent = new Intent("com.example.broadcasttest.MY_BROADCAST");
-              sendBroadcast(mIntent);
+                sendBroadcast(mIntent);
                 break;
             case R.id.local_btn:
                 localBroadcastManager = LocalBroadcastManager.getInstance(this);
