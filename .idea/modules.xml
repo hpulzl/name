@@ -4,6 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidApplication.iml" filepath="$PROJECT_DIR$/AndroidApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastproject/broadcastproject.iml" filepath="$PROJECT_DIR$/broadcastproject/broadcastproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcasttest/broadcasttest.iml" filepath="$PROJECT_DIR$/broadcasttest/broadcasttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" filepath="$PROJECT_DIR$/broadcasttest2/broadcasttest2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/butterknifedemo/butterknifedemo.iml" filepath="$PROJECT_DIR$/butterknifedemo/butterknifedemo.iml" />
     </modules>
   </component>
 </project>
