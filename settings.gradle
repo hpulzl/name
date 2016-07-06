@@ -1,1 +1,1 @@
-include ':app', ':butterknifedemo', ':broadcasttest', ':broadcasttest2', ':broadcastproject'
+include ':app', ':butterknifedemo', ':broadcasttest', ':broadcasttest2', ':broadcastproject', ':servicetest'
